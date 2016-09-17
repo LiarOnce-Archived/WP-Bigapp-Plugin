@@ -1,2 +1,2 @@
 # WP-Bigapp-Plugin
-Bigapp Plugin for WordPress.
+Backup from https://wordpress.org/plugins/wp-bigapp/ .
